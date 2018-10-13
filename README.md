@@ -5,3 +5,6 @@ https://github.com/jonatan1024/clrinject
 
 https://kalilinuxtutorials.com/sandsifter-x86-processor/  
 https://github.com/Battelle/sandsifter  
+
+https://kalilinuxtutorials.com/takeover-cname-record-subdomains/  
+https://github.com/aboul3la/Sublist3r  
